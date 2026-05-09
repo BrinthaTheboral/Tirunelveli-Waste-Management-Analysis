@@ -9,4 +9,7 @@ Original data source: Tirunelveli Municipal Corporation
 - Total days: 554
 - Locations: Thachanallur, Town, Palayankottai, Melapalayam
 - Categories: Bio Waste, Nonbio Waste, Mud from drainage
-**Note:** Original data is confidential. 
+
+ 
+ **Note:** Due to confidentiality and privacy agreements with the municipality, the original raw data is **not included** in this repository.
+
