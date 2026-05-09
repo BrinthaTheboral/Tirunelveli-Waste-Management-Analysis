@@ -13,4 +13,3 @@ Original data source: Tirunelveli Municipal Corporation
  
  **Note:** Due to confidentiality and privacy agreements with the municipality, the original raw data is **not included** in this repository.
 
-git commit -m "Delete all files from repository"
