@@ -1,0 +1,5 @@
+df = pd.read_csv("Sustainable Waste Data (Tirunelveli District).csv")
+df['Date'] = pd.to_datetime(df['Date'], errors='coerce')
+df = df.dropna(subset=['Date'])
+
+#Note: Data was not added because it is confidential.
