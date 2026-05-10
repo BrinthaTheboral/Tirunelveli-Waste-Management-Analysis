@@ -29,6 +29,15 @@ Original data from **Tirunelveli Municipal Corporation** (confidential - not inc
 
 ---
 
+## Objectives
+-  To quantify the extent of missing source segregation using proxy indicators from daily waste composition data.
+-  To analyze temporal trends in biodegradable, non-biodegradable, and inert (mud/silt) waste fractions.
+-  To statistically test whether segregation failure leads to contamination.
+-  To estimate recyclable loss due to poor segregation.
+-  To recommend data-driven interventions for improving segregation.
+
+---
+
 ## Key Findings
 
 | Finding | Value |
@@ -61,3 +70,5 @@ Original data from **Tirunelveli Municipal Corporation** (confidential - not inc
 - Conduct awareness programs in schools, colleges, and areas.
 - Install a traffic light dashboard at the municipal office with three levels: 🟢 LOW (good), 🟡 MEDIUM (needs care), 🔴 HIGH (critical). This helps officers quickly identify which wards need immediate attention.
 - Train stationary workers as Resource Recovery Specialists with certification and incentives.
+
+---
